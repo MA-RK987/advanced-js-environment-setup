@@ -1,1 +1,1 @@
-# eHA-course
+advanced-js-environment-setup
